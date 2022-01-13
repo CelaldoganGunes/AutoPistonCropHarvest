@@ -1,0 +1,7 @@
+name: AutoPistonCropHarvest
+version: '${project.version}'
+main: com.celal1387.autopistoncropharvest.AutoPistonCropHarvest
+api-version: 1.18
+authors: [ celal1387 ]
+description: Harvest Crops with Pistons Automatically without Redstone Signal
+website: celal1387.com

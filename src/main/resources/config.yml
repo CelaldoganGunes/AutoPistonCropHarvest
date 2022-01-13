@@ -1,0 +1,23 @@
+harvester: PISTON
+
+directions:
+  - NORTH
+  - SOUTH
+  - EAST
+  - WEST
+  - UP
+  - DOWN
+
+blockGrowList:
+  - MELON
+  - SUGAR_CANE
+  - PUMPKIN
+
+blockSpreadList:
+  - BAMBOO
+
+dropList:
+  MELON: MELON_SLICE
+  SUGAR_CANE: SUGAR_CANE
+  PUMPKIN: PUMPKIN
+  BAMBOO: BAMBOO
